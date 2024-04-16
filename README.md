@@ -1,6 +1,6 @@
 Hi 👋 My name is Artem RYBACHUK
 ===============================
-I'm JavaScript Engineer with an education background in engineering and 4+ years experience in building and maintaining responsive websites and web applications using Front-end / JavaScript technologies.
+Front-end developer with Master's degree in computer engineering. Certificate of successful completion of the Full Stack Development Bootcamp course. Almost 5 years of experience in developing, maintaining, debugging and testing front-end web applications using modern JavaScript web frameworks such as React/Next. Experience with Agile project management methodologies. Experience in creating your own startup project.
 
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [artem.rybachuk@gmail.com](mailto:artem.rybachuk@gmail.com)
