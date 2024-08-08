@@ -4,7 +4,6 @@ Front-end developer with Master's degree in computer engineering. Certificate of
 
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [artem.rybachuk@gmail.com](mailto:artem.rybachuk@gmail.com)
-* 🚀  I'm currently working on [My own project](http://www.linkedin.com/company/oselya-app/)
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Your Friendly Neighborhood RBCHK 😉
 
