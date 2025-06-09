@@ -1,6 +1,6 @@
 Hi 👋 My name is Artem RYBACHUK
 ===============================
-A skilled Software Engineer with Master's degree in computer engineering. Certificate of successful completion of the Full Stack Development Bootcamp course. Certificate of successful completion of the Data Analyst Program at NPower Canada. More than 5 years of experience in developing, maintaining, debugging and testing front-end web applications using modern JavaScript web frameworks such as React/Next. Experience with Agile project management methodologies. IBM Data Analyst Professional Certificate. Microsoft Azure AI900 Professional Certificate.
+Senior Software Engineer with Master's degree in computer engineering. Certificate of successful completion of the Full Stack Development Bootcamp course. Certificate of successful completion of the Data Analyst Program at NPower Canada. Over 6 years of experience in developing, maintaining, debugging and testing front-end web applications using modern JavaScript web frameworks such as React/Next. Experience with Agile project management methodologies. IBM Data Analyst Professional Certificate. Microsoft Azure AI900 Professional Certificate.
 
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [artem.rybachuk@gmail.com](mailto:artem.rybachuk@gmail.com)
