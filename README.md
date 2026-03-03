@@ -7,7 +7,7 @@ Senior Software Engineer with Master's degree in computer engineering. Certifica
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/RBCHK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RBCHK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
-<a href="https://www.x.com/a_rbchk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/a_rbchk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.x.com/razRBCHK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/a_rbchk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 Skills
 -------------------
