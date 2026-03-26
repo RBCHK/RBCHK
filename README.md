@@ -8,5 +8,3 @@ Senior Software Engineer with Master's degree in computer engineering. Certifica
 
 <a href="https://www.github.com/RBCHK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RBCHK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
 <a href="https://www.x.com/razRBCHK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/a_rbchk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<a href="https://www.buymeacoffee.com/rbchk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
